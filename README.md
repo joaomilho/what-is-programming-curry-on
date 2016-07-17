@@ -5,13 +5,13 @@
 Five philosophers sit at a round table with bowls of spaghetti. Forks are placed between each pair of adjacent philosophers. Each philosopher must alternately think and eat.
 
 The first philosopher thinks for a bit and says
-> Programming is like the ideal city: the architecture is ideally planned, everyone does everything to the best interest to the community and no vices are allowed. This city will create an unbeatable army by selecting only the strongest and bravest and train them through the most rigid discipline. This city must be ruled by Computer Scientist who are well rounded in Mathematics and Logic.
+> Programming is like the human body: there are parts that conduct actions, like hands and legs, but these are commanded by a central control, the mind. The mind is not only capable to command the body to perform tasks, but to produce ideas and to think about this ideas in the most abstract ways and understand the world around us. We can know about ourselves both by reflection and direct contact to our ideas, feelings and sensations, but also investigating ourselves as objects in the world.
 
 The second philosopher thinks for a bit and says
-> Programming is like the real city: is starts by chance and evolves based on real needs. There's no big master plan but there may be periods of consolidation. Smaller parts are constantly changing and sometimes bigger parts are built and rebuilt. The city will react to external threats by building defenses according to strategy and it's diversity will be it's strength. This city must be ruled by leaders who understand the cosmos and it's natural harmony hidden behind appearances.
+> Programming is like an ideal city: the architecture is formally planned to perfection, everyone does everything to the best interest to the community and no vices are allowed. This city will create an unbeatable army by selecting only the strongest and bravest and train them through the most rigid discipline. This city must be ruled by Computer by rounded in Mathematics and Logic.
 
 The third philosopher thinks for a bit and says
-> Programming is like the human body: there are parts that conduct actions, like hands and legs, but these are commanded by a central control, the mind. The mind is not only capable to command the body to perform tasks, but to produce ideas and to think about this ideas in the most abstract ways and understand the world around us. We can know about ourselves both by reflection and direct contact to our ideas, feelings and sensations, but also investigating ourselves as objects in the world.
+> Programming is like a real city: it start by chance or be planned, but evolves based on real needs. Individual parts are planned, built and evolve according to these needs. This city must be ruled by pragmatical leaders, who put the population's interest first.
 
 The fourth one:
 > Programming is a 'postmodern' activity. All your suggestions are grand schemes, and are simply 'lies-to-children'. Real programming has no grand schemes. Programs are actually systems: constellations of part built in completely different ways, connected arbitrarily. While you are discussing your grand schemes people continue building "big balls of mud". Let's instead study mud and improve from there.
@@ -31,7 +31,7 @@ And there he stood and died.
 
 ## 1. Programming and philosophy
 
-First of all, let me clarify a certain way I think philosophy can contribute to Computer Science. There are many ways in which philosophy and Computer Science already intersect, specially in the philosophy of mind slash artificial intelligence world, but also tangentially on, say, computer ethics. But in this presentation I will be focusing on another way. I'll lay out this way using a citation from Timothy Colburn:
+There are many ways in which philosophy and Computer Science already intersect, specially in the philosophy of mind slash artificial intelligence world, but also tangentially on, say, computer ethics. But in this presentation I will be focusing on another way. I'll lay out this way using a citation from Timothy Colburn:
 
 > …computer science is ripe for the good old-fashioned analysis that philosophy can provide for any science. Thus, a perfectly reasonable role of philosophy is to attempt to place computer science within the broad spectrum of inquiry that constitutes science. The concern here is to deal with the inevitable identity crises that crop up in the self-image of any adolescent, which computer science certainly is. Philosophy should address questions like: What is the relation between mathematics and computer science? Is there a sense in which computer science is experimental science? … What are the ontological implications of computer science concepts? 
 >

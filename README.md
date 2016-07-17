@@ -96,8 +96,7 @@ This position also may require the assumption that there is, or there will be a 
 
 There are indeed different views of programming as science that doesn't rely on this ontology of mental processes.
 
-> Each … program … is an [experiment] … and its behavior offers clues to an answer. Neither machines nor programs are black boxes; they are artifacts that have been designed, both hardware and software, and we can open them up and look inside. We can relate their structure to their behavior and draw many lessons from a single experiment. … Inspection of the program in the light of a
-few runs reveals … [flaws] and lets us proceed to the next attempt. 
+> Each … program … is an [experiment] … and its behavior offers clues to an answer. Neither machines nor programs are black boxes; they are artifacts that have been designed, both hardware and software, and we can open them up and look inside. We can relate their structure to their behavior and draw many lessons from a single experiment. … Inspection of the program in the light of a few runs reveals … [flaws] and lets us proceed to the next attempt. 
 >
 > -- <cite>Allen Newell & Herbert A. Simon, Computer Science as Empirical Inquiry: Symbols and Search</cite> <sup>9</sup>
 
@@ -107,7 +106,7 @@ The difficulty of this specific formulation is multifold. If a program is an exp
 
 > …computers of the present day [are] very complicated and rather poorly defined. As a result, it is usually impractical to reason logically about their behavior. Sometimes, the only way of finding out what they will do is by experiment. Such experiments are certainly not mathematics. Unfortunately, they are not even science, because it is impossible to generalize from their results or to publish them for the benefit of other scientists.
 > 
-> Tony Hoare, Mathematics of Programming, Program Verification: Fundamental Issues in Computer Science<sup>11</sup>
+> Tony Hoare, Mathematics of Programming<sup>11</sup>
 
 With time, the naive enthusiasm of the scientific view started to fade. Here's Fred Brooks assessment:
 
@@ -167,8 +166,7 @@ But simply defining this enquiry doesn't solve the ontological programs. In the 
 
 An alternative is to assume a more naturalistic ontology to programs, in opposition the scientific and the rationalist views:
 
-> A program … is … information only when it is executed. Before it's really executed as a program in the machine it is handled, carried to the machine in the form of a stack of punch cards, or it is
-transcribed, … it is … just as a bunch of data.
+> A program … is … information only when it is executed. Before it's really executed as a program in the machine it is handled, carried to the machine in the form of a stack of punch cards, or it is transcribed, … it is … just as a bunch of data.
 >
 > -- <cite>Van der Poel, Software Engineering - Report on a conference sponsored by the NATO Science Comitte</cite> <sup>17</sup>
 
@@ -192,7 +190,7 @@ Talking about books, apart from the three views presented here there is also a w
 > 
 > -- <cite>Douglas Crockford, on Peter Seibel, Coders at Work</cite> <sup>20</sup>
 
-This view has a lot to do with the fact that under the engineering discipline writing programs is a highly social enterprise and the program needs to function not only as a machine instructor but as a mean of communication between humans. Some modern languages have as a goal to be as close to English as possible and render the code so "readable" that one can eschew comments and documentation. But the analogy of the activity goes as far the analogy of the object goes, and this was already established before.
+This view has a lot to do with the fact that in the current engineering world writing programs is a highly social enterprise and the program needs to function not only as a machine instructor but as a mean of communication between humans. Some modern languages have as a goal to be as close to English as possible and render the code so "readable" that one can eschew comments and documentation. But the analogy of the activity goes as far the analogy of the object goes, and this was already established before.
 
 ##### No ontology
 
@@ -224,15 +222,15 @@ All these analogies are simply "lies-to-children", that is, something that allow
 
 Also Dijkstra has critized harshly the role of analogy in programming courses:
 
-> It is the most common way of trying to cope with novelty: by means of metaphors and analogies we try to link the new to the old, the novel to the familiar. Under sufficiently slow and gradual change, it works reasonably well; in the case of a sharp discontinuity, however, the method breaks down: though we may glorify it with the name "common sense", our past experience is no longer relevant, the analogies become too shallow, and the metaphors become more misleading than illuminating. This is the situation that is characteristic for the "radical" novelty.
-> …
-> The educational dogma seems to be that everything is fine as long as the student does not notice that he is learning something really new; more often than not, the student's impression is indeed correct. I consider the failure of an educational practice to prepare the next generation for the phenomenon of radical novelties a serious shortcoming.
+> It is the most common way of trying to cope with novelty: by means of metaphors and analogies we try to link the … the novel to the familiar. Under sufficiently slow and gradual change, it works reasonably well; in the case of a sharp discontinuity, however, the method breaks down: though we may glorify it with the name "common sense", our past experience is no longer relevant, the analogies become too shallow … more misleading than illuminating.
+> 
+> … The educational dogma seems to be that everything is fine as long as the student does not notice that he is learning something really new; more often than not, the student's impression is indeed correct. I consider the failure … to prepare the next generation for … radical novelties a serious shortcoming.
 > 
 > -- <cite>Edsger W. Dijkstra, On the cruelty of really teaching computing science</cite> <sup>25</sup>
 
 But again, the dangers of analogy only materialize when the ladder is not thrown away. And given the educational benefits of analogical thinking and even the possibility that we can't really get rid of it, we should instead focus more on clarifying the "relevant features" of any analogy introduced.
 
-One such clear discussion of OOP is presented by Antero Taivalsaari, in "Classes vs. Prototypes: Some Philosophical and Historical Observations"<sup>23</sup>. OO seems to embody the platonic scheme for a very simple reason: a lot of our practical work is related to the problem of ontology. That is, we need to define what are the elementary elements in our applications, their names, their functions and their relations. Once this is recognized one can throw away the analogy. Recognizing clearly the relevant features also helps us advance, for Antero argues that the development of a more scientific understanding on how we classify things, based on contemporary cognitive psychology, leads to something similar to prototype-based OOP instead.
+One such clear discussion of OOP is presented by Antero Taivalsaari, in "Classes vs. Prototypes"<sup>23</sup>. OO seems to embody the platonic scheme for a very simple reason: a lot of our practical work is related to the problem of ontology. That is, we need to define what are the elementary elements in our applications, their names, their functions and their relations. Once this is recognized one can throw away the analogy. Recognizing clearly the relevant features also helps us advance, for Antero argues that the development of a more scientific understanding on how we classify things, based on contemporary cognitive psychology, leads to something similar to prototype-based OOP instead.
 
 ## Final remarks
 

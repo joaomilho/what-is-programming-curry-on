@@ -41,7 +41,7 @@ There are many ways in which philosophy and Computer Science already intersect, 
 
 It appears that there is no consensus on what programming is about. It seems reasonable to be so, after all it is an activity that exist for a relatively short period of time.
 
-In this time, it changed the way we perform almost all of our other activities and it carries no smaller promises than virtual worlds, artificial inteligence and immortality.
+In this time, it changed the way we perform almost all of our other activities and it carries no smaller promises than virtual worlds, AI and immortality.
 
 On the other hand the disagreements are huge and apparently irreconcilable.
 
@@ -55,9 +55,9 @@ On the other hand the disagreements are huge and apparently irreconcilable.
 | rationalist | mathematical object | a priori, certain | deduction | math |
 | technocratic | artifact | a posteriori, probable | design | engineering |
 
-So how can it be that programming is seen in so many different ways? A simple, and rather lazy explanation, is that these are three distinct activities. But before we jump into conclusions, we can take a look at the development of these thre paradigms.
+So how can it be that programming is seen in so many different ways? A simple, and rather lazy explanation, is that these are three distinct activities. But before we jump into conclusions, we can take a look at the development of these three paradigms.
 
-Established areas of knowledge had what we call today a "pre-scientific" period. This is defined by a period where their object and method were either not mature enough to produce major breakthoughs or were disputed to the point of not having a general consensus among their practitioners. 
+Established areas of knowledge had what we call today a "pre-scientific" period. This is defined by a period where their object and method were either not mature enough to produce major breakthroughs or were disputed to the point of not having a general consensus among their practitioners. 
 
 But even mature areas of knowledge, seen from a historical point of view seems to contain a dynamic process of breakthroughs leading to redefining or at least refining the understanding of its object, and by doing so, the activity itself changes.
 
@@ -67,7 +67,7 @@ Look, for instance, at the battle going on in physics departments between the ad
 > 
 > -- <cite>Galileo, Letter to Kepler</cite> <sup>5</sup>
 
-But nowadays we don't even equate these early efforts with physics, labeling them "aristotelian physics", "scholastic physics" or some other name to distance them from the new activity that was born by then. What links this pre-scientific physics with physics is that, in general, it was interested in the same objects, for none would deny that Aristotle was invested on studying, say, motion. Only that his methods, and the methods of his successors (that consisted mainly on commenting him) were not fruitful and therefore the activity of studying this object needed to be redefined. Philosophy [as practiced] was both, at least is some sense, guilty of creating the centuries of platonic and aristotelian dogmatism, and pivotal in dispeling it, by constructing convincing arguments to support the new method, to the point it is common sense nowadays.
+But nowadays we don't even equate these early efforts with physics, labeling them "aristotelian physics", "scholastic physics" or some other name to distance them from the new activity that was born by then. What links this pre-scientific physics with physics is that, in general, it was interested in the same objects, for none would deny that Aristotle was invested on studying, say, motion. Only that his methods, and the methods of his successors (that consisted mainly on commenting him) were not fruitful and therefore the activity of studying this object needed to be redefined. Philosophy [as practiced] was both, at least is some sense, guilty of creating the centuries of platonic and aristotelian dogmatism, and pivotal in dispelling it, by constructing convincing arguments to support the new method, to the point it is common sense nowadays.
 
 What seems to be peculiar to the problem of the nature of programming is that there's wide disagreement both in the definition of object and method. Given we have established sciences, the disagreement that seems to be the most fundamental is the one regarding the object. Since in all presented characterizations the method simply follows the object, using the established sciences as the reference. It would indeed be very creative if computer scientists would come up with a novel method for this novel object, but I'll confine the following discussion on the established views.
 
@@ -79,7 +79,7 @@ In the 50s, the majority position about programming was the scientific one.<sup>
 >
 > -- <cite>John McCarthy, A Basis For A Mathematical Theory of Computation</cite> <sup>6</sup>
 
-If programming is to be properly scientifical, it seems that it must have as object some natural entity. The relation of program and mental process is not meant simply as a constructive analogy, but as an identity. The nature of this identity is hard to phatom, but must be based on the possibility of translation of patterns encoded as programs in a machine and patterns of neural states in our brains:
+If programming is to be properly scientific, it seems that it must have as object some natural entity. The relation of program and mental process is not meant simply as a constructive analogy, but as an identity. The nature of this identity is hard to fathom, but must be based on the possibility of translation of patterns encoded as programs in a machine and patterns of neural states in our brains:
 
 > If software is pattern first, and material embodiment of pattern second, then it can be ported from one substratum to another. It is liftable. The pattern embodied in magnetic fields on a disk can be lifted from the disk and transposed to solids and blanks on the cells of punched cards, and vice versa. …
 >
@@ -102,7 +102,7 @@ There are indeed different views of programming as science that doesn't rely on 
 
 In this account, programming is scientific simply because we apply an experimental method.
 
-The difficulty of this specific formulation is multifold. If a program is an experiment and its behaviour offers clues to an answer, we can rightfully ask: an answer to what? For if a program is an artifact there is a clear disanalogy with Natural Science, for these are sciences occupied with nature and if they test artifacts it is only to accertain their correcteness as a mean to ensure the experiments yield reliable information about their ultimate objects. An even more importantly, it seems that any knowledge that we derive from testing a program is about this program (and, following Quine, everything "behind" it<sup>10</sup>), and not general hypothesis. 
+The difficulty of this specific formulation is multifold. If a program is an experiment and its behaviour offers clues to an answer, we can rightfully ask: an answer to what? For if a program is an artifact there is a clear disanalogy with Natural Science, for these are sciences occupied with nature and if they test artifacts it is only to ascertain their correctness as a mean to ensure the experiments yield reliable information about their ultimate objects. An even more importantly, it seems that any knowledge that we derive from testing a program is about this program (and, following Quine, everything "behind" it<sup>10</sup>), and not general hypothesis. 
 
 > …computers of the present day [are] very complicated and rather poorly defined. As a result, it is usually impractical to reason logically about their behavior. Sometimes, the only way of finding out what they will do is by experiment. Such experiments are certainly not mathematics. Unfortunately, they are not even science, because it is impossible to generalize from their results or to publish them for the benefit of other scientists.
 > 
@@ -114,7 +114,7 @@ With time, the naive enthusiasm of the scientific view started to fade. Here's F
 >
 > -- <cite>Fred Brooks, The Computer Scientist as Toolsmith II</cite> <sup>12</sup>
 
-In any event, this view haven't yet died, or, at least, its main goal still motivates, and will always motivate, even if our aspirations are lower. But its survival as a full-blown paradigm depends on major breakthoughs in our understanding of the concept of mind.
+In any event, this view haven't yet died, or, at least, its main goal still motivates, and will always motivate, even if our aspirations are lower. But its survival as a full-blown paradigm depends on major breakthroughs in our understanding of the concept of mind.
 
 ### 4. Programming as mathematics
 
@@ -178,7 +178,7 @@ The analogy of a program and a book is a highly valuable one, and extends to man
 
 Since not all data can be executed, we need some criteria to distinguish mere data and software. The best criteria seems to be the author's intent.
 
-There's a key difference in saying that when resting software *is* just data and that it *can be seen* as just data. When a program is compiled it is taken by the compiler as just data. Even parts of a program can intercheangibly be taken as data, like functions that are passed to functions. <sup>7</sup> 
+There's a key difference in saying that when resting software *is* just data and that it *can be seen* as just data. When a program is compiled it is taken by the compiler as just data. Even parts of a program can interchangeably be taken as data, like functions that are passed to functions. <sup>7</sup> 
 
 ##### Programming as writing
 
@@ -220,7 +220,7 @@ All these analogies are simply "lies-to-children", that is, something that allow
 > 
 > -- <cite>James Noble & Robert Biddle, Notes on Postmodern Programming</cite> <sup>22</sup>
 
-Also Dijkstra has critized harshly the role of analogy in programming courses:
+Also Dijkstra has criticized harshly the role of analogy in programming courses:
 
 > It is the most common way of trying to cope with novelty: by means of metaphors and analogies we try to link the … the novel to the familiar. Under sufficiently slow and gradual change, it works reasonably well; in the case of a sharp discontinuity, however, the method breaks down: though we may glorify it with the name "common sense", our past experience is no longer relevant, the analogies become too shallow … more misleading than illuminating.
 > 

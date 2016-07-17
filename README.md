@@ -24,7 +24,7 @@ And there he stood and died.
 ## Agenda
 
 1. Programming and philosophy
-2. Paradigm wars 1.0
+2. Paradigm wars
 3. Programming as science
 4. Programming as mathematics
 5. Programming as engineering
@@ -37,7 +37,7 @@ First of all, let me clarify a certain way I think philosophy can contribute to 
 >
 > -- <cite>Timothy Colburn, Methodology of Computer Science</cite> <sup>1</sup>
 
-## 2. The paradigm wars
+## 2. Paradigm wars
 
 It appears that there is no consensus on what programming is about. It seems reasonable to be so, after all it is an activity that exist for a relatively short period of time.
 
@@ -61,13 +61,13 @@ Established areas of knowledge had what we call today a "pre-scientific" period.
 
 But even mature areas of knowledge, seen from a historical point of view seems to contain a dynamic process of breakthroughs leading to redefining or at least refining the understanding of its object, and by doing so, the activity itself changes.
 
-Look, for instance, at the battle going on in physics departments between the adherents of _particle_ and _string_ theories. Many  claim, specially given its lack of experimental results, that "String theory is not physics"<sup>3</sup>, its rather a branch of mathematics dealing with different objects than physics. Others say that string theory indeed represent a whole new method, but this method that still relates to the same objects. This contention is not novel in physics. We can also look to the introduction of probabilities of aggregates by the kinetic theory of gases by the 18th century<sup>4</sup>. After all, what we call "classical physics" was adamantly committed to a deterministic theoretical scheme. And more decisively, even the empirical method was not a central part of what was called physics before that. When Galileo pointed his telescope to the moon and invited the scholastics to look, they appealed to _a priori_ impossibilities of his theory. He complained bitterly to Kepler in a letter:
+Look, for instance, at the battle going on in physics departments between the adherents of _particle_ and _string_ theories. Many  claim, specially given its lack of experimental results, that "String theory is not physics"<sup>3</sup>, its rather a branch of mathematics dealing with different objects than physics. Others say that string theory indeed represent a whole new method, but this method still relates to the same objects. This contention is not novel in physics. We can also look to the introduction of probabilities of aggregates by the kinetic theory of gases by the 18th century<sup>4</sup>. After all, what we call "classical physics" was adamantly committed to a deterministic theoretical scheme. And more decisively, even the empirical method was not a central part of what was called physics before that. When Galileo pointed his telescope to the moon and invited the scholastics to look, they appealed to _a priori_ impossibilities of his theory. He complained bitterly to Kepler in a letter:
 
 > My dear Kepler, I wish that we might laugh at the remarkable stupidity of the common herd. What do you have to say about the principal philosophers of this academy who are filled with the stubbornness of an asp and do not want to look at either the planets, the moon or the telescope, even though I have freely and deliberately offered them the opportunity a thousand times? Truly, just as the asp stops its ears, so do these philosophers shut their eyes to the light of truth.
 > 
 > -- <cite>Galileo, letter to Kepler, August 1610</cite> <sup>5</sup>
 
-But nowadays we don't even equate these early efforts with physics, labeling it "aristotelian physics", "scholastic physics" or some other name to distance it from the new activity that was born by then. What links this pre-scientific physics with physics, is that, at least in general it was interested in the same objects, for none would deny that Aristotle was invested on studying, say, motion. Only that his methods, and the methods of his successors (that consisted in a big part on commenting him) were not fruitful and therefore the activity of studying this object needed to be redefined. Philosophy [as practiced] was both, at least is some sense guilty of creating the centuries of aristotelian dogmatism, and pivotal in dispeling it, by constructing convincing arguments to support the new method, to the point it is common sense nowadays.
+But nowadays we don't even equate these early efforts with physics, labeling them "aristotelian physics", "scholastic physics" or some other name to distance them from the new activity that was born by then. What links this pre-scientific physics with physics, is that, at least in general it was interested in the same objects, for none would deny that Aristotle was invested on studying, say, motion. Only that his methods, and the methods of his successors (that consisted in a big part on commenting him) were not fruitful and therefore the activity of studying this object needed to be redefined. Philosophy [as practiced] was both, at least is some sense guilty of creating the centuries of aristotelian dogmatism, and pivotal in dispeling it, by constructing convincing arguments to support the new method, to the point it is common sense nowadays.
 
 What seems to be peculiar to the problem of the nature of programming is that there's wide disagreement both in the definition of object and method. Given we have established sciences, the disagreement that seems to be the most fundamental is the one regarding the object. Since in all presented characterizations, the method simply follows the object, using the established sciences as the reference. It would indeed be very creative if computer scientists would come up with a novel method for this novel object, but I'll confine the following discussion on the established views.
 

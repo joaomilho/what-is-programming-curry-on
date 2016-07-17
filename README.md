@@ -19,16 +19,15 @@ The fourth one:
 The fifth one:
 > Hey guys. Can you pass the forks? I'm starving.
 
-And there he stood. And died. (TODO not gr8 yet)
+And there he stood and died.
 
 ## Agenda
 
 1. Programming and philosophy
 2. Paradigm wars 1.0
-4. Programming as science
-5. Programming as mathematics
-6. Programming as engineering
-9. Paradigm wars 2.0
+3. Programming as science
+4. Programming as mathematics
+5. Programming as engineering
 
 ## 1. Programming and philosophy
 
@@ -72,7 +71,7 @@ But nowadays we don't even equate these early efforts with physics, labeling it 
 
 What seems to be peculiar to the problem of the nature of programming is that there's wide disagreement both in the definition of object and method. Given we have established sciences, the disagreement that seems to be the most fundamental is the one regarding the object. Since in all presented characterizations, the method simply follows the object, using the established sciences as the reference. It would indeed be very creative if computer scientists would come up with a novel method for this novel object, but I'll confine the following discussion on the established views.
 
-## 1. Programming as science
+## 3. Programming as science
 
 In the 50s, the majority position about programming was the scientific one.<sup>2</sup> That's certainly related to the fact that the very invention of computers was related to this grand narrative of creating a thinking automaton. In hindsight this seems strange, because by now we're well aware of how hard this goal is. It seems that we put the cart before the horse. But is still remarkable the confidence in which researchers by that time would make analogies and draw quick conclusions relating programming to human though. Take this conclusion, for instance:
 
@@ -118,7 +117,7 @@ With time, the naive enthusiasm of the scientific view started to fade. Here's F
 
 In any event, this view haven't yet died, or, at least, its main goal still motivates, and will always motivate, even if our aspirations are lower. But its survival, as a full-blown paradigm depends on major breakthoughs in our understanding of the concept of mind.
 
-### 2. Programming as mathematics
+### 4. Programming as mathematics
 
 Many computer scientists have expressed the opinion that computer science is simply a branch of mathematics. Let us first establish the position:
 
@@ -150,7 +149,7 @@ In sum, any proof related to ideal entities does not apply unreservedly to natur
 
 This refutation doesn't exclude the possibility of studying programs in an abstract way. But precisely because it only considers them in abstract, it is not a science strictly speaking about programs. The mathematical ingredients involved in the movement of a cannonball don't talk about movement, let alone about cannonballs. They talk about the parabola.
 
-## 4. Programming as engineering
+## 5. Programming as engineering
 
 The failure of the two views just presented to yield a proper method for programming coupled with the growing need to solve immediate problems has led to a more pragmatical view:
 
@@ -235,7 +234,7 @@ But again, the dangers of analogy only materialize when the ladder is not thrown
 
 One such clear discussion of OOP is presented by Antero Taivalsaari, in "Classes vs. Prototypes: Some Philosophical and Historical Observations"<sup>23</sup>. OO seems to embody the platonic scheme for a very simple reason: a lot of our practical work is related to the problem of ontology. That is, we need to define what are the elementary elements in our applications, their names, their functions and their relations. Once this is recognized one can throw away the analogy. Recognizing clearly the relevant features also helps us advance, for Antero argues that the development of a more scientific understanding on how we classify things, based on contemporary cognitive psychology, leads to something similar to prototype-based OOP instead.
 
-### Final remarks
+## Final remarks
 
 Whatever programming is, it is certainly a "radical" novelty, in Dijsktra's account <sup>25</sup>. This view makes it imperative for programmers to understand their trade in a reflexive way, for without this reflexivity we can't expect major breakthroughs in an area that is still fixing its roots.
 
@@ -271,4 +270,4 @@ Worst case scenario this kind of knowledge may help us have better answers than 
 22. James Noble & Robert Biddle, **Notes on Postmodern Programming**, 2002
 23. Antero Taivalsaari, **Classes vs Prototypes: Some Philosophycal and Historical Observations**, 1996
 24. Rich Hickey, **Are We There Yet?**, 2009 [online](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
-25. Edsger W. Dijkstra, **On the cruelty of really teaching computing science**, 1988
+25. Edsger W. Dijkstra, **On the Cruelty of Really Teaching Computer Science**, 1988

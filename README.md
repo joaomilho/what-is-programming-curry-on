@@ -1,4 +1,12 @@
-# What is programming
+# Bio
+
+Juan was just a regular kid until one day he bet his soul with the devil and lost. Then, he suddenly learned to play blues and started working with technology making fortunes with the dotcom bubble. He studied physics, where he couldn't find any evidence for, and philosophy, where he couldn't find any good argument for the existence of souls.
+
+Given an approaching deadline set by the dark lord, he decided to move to Israel and learn Hebrew, in order to read God's words and to seek atonement for his sins. Nowadays he works with front end technologies, since he couldn't find anything more self flagellating to do.
+
+As the Cohen brothers would say "This is a true story".
+
+# What is programming?
 
 ## Dining philosophers
 
@@ -107,6 +115,8 @@ The difficulty of this specific formulation is multifold. If a program is an exp
 > …computers of the present day [are] very complicated and rather poorly defined. As a result, it is usually impractical to reason logically about their behavior. Sometimes, the only way of finding out what they will do is by experiment. Such experiments are certainly not mathematics. Unfortunately, they are not even science, because it is impossible to generalize from their results or to publish them for the benefit of other scientists.
 > 
 > Tony Hoare, Mathematics of Programming<sup>11</sup>
+
+But this sort of empirical research can yield some generalities, like rules of thumb and guidelines, but this seems to be more in line with engineering.
 
 With time, the naive enthusiasm of the scientific view started to fade. Here's Fred Brooks assessment:
 

@@ -18,7 +18,7 @@ The first philosopher thinks for a bit and says:
 
 The second philosopher thinks for a bit and says:
 
-> Programming is like an ideal city: the architecture is formally planned to perfection, everyone does everything to the best interest to the community and no vices are allowed. This city will create an unbeatable army by selecting only the strongest and bravest and train them through the most rigid discipline. This city must be ruled by Kinds educated in Mathematics and Logic.
+> Programming is like an ideal city: the architecture is formally planned to perfection, everyone does everything to the best interest to the community and no vices are allowed. This city will create an unbeatable army by selecting only the strongest and bravest and train them through the most rigid discipline. This city must be ruled by Kings educated in Mathematics and Logic.
 
 The third one says:
 
@@ -239,7 +239,7 @@ One such clear discussion of OOP is presented by Antero Taivalsaari, in "Classes
 
 Whatever programming is, it is certainly a "radical" novelty, in Dijsktra's sense <sup>24</sup>. This view makes it imperative for programmers to understand their trade in a deeply reflexive way.
 
-In the worst case scenario this kind of knowledge may help us have better answers than the following, to the question: "Do you think of yourself as a scientist or an engineer or a craftsman? Or something else entirely?". I'm putting this answer here not to mock the author, but because I think this sad feeling is widespread in our industry and representative of many other programmer's feelings:
+In the worst case scenario this kind of knowledge may help us have better answers than the following to the question "Do you think of yourself as a scientist or an engineer or a craftsman? Or something else entirely?". I'm putting this answer here not to mock the author, but because I think this sad feeling is widespread in our industry and representative of many other programmer's feelings:
 
 > [I see myself] …definitely not [as] a scientist or engineer because those have very formal connotations. I don’t do a lot of math; I don’t draw blueprints; I don’t prove things. …I write a lot of screen savers…
 > 
@@ -266,10 +266,6 @@ In the worst case scenario this kind of knowledge may help us have better answer
 17. Van der Poel, **Software Engineering - Report on a conference sponsored by the NATO Science Committee**, Naur & Randell, 1969
 18. Stephan Kinsella, **Against Intelectual Property**, 2008
 19. Lewis Carroll, **Jabberwocky**, Through the Looking-Glass and What Alice Found There, 1872
-
-
-
-
 20. Paul Feyerabend, **Against Method**, 1975
 21. James Noble & Robert Biddle, **Notes on Postmodern Programming**, 2002
 22. Antero Taivalsaari, **Classes vs Prototypes: Some Philosophycal and Historical Observations**, 1996
